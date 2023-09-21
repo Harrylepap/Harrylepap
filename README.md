@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Salama eh, Laba diena, Hello ! 👋
 
 I'm Harrylepap, a passionate Product Manager dedicated to shaping the future of payments in Africa. My journey started as a developer, but I've since transitioned to the world of product management with a focus on creating innovative payment solutions.
 
